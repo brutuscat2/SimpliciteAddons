@@ -6,10 +6,10 @@ version: ${project.version}-b${BUILD_NUMBER}
 
 commands:
    bed:
-      description: Teleports you to your Bed location.
+      description: Teleports you to your bed location.
 
    spawn:
-      description: Teleports you to the Server Spawn location.
+      description: Teleports you to the server spawn location.
 
    setspawn:
-      description: Sets the Server Spawn Location.
+      description: Sets the server spawn location.
